@@ -44,7 +44,11 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 optimal policy
+
+
 ![WhatsApp Image 2024-11-26 at 23 26 39_1ca23b6c](https://github.com/user-attachments/assets/b4bd801c-cc99-4913-9920-c2f6a036049c)
+
+
 optimal value function
 ![image](https://github.com/user-attachments/assets/b384cdf6-22f6-4eb7-8da5-0f02b7e3da23)
 success rate for the optimal policy
